@@ -1,2 +1,2 @@
 # E-School
-E-School project-4 full
+https://shamimosman12.github.io/E-School/
